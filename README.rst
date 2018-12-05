@@ -2,26 +2,31 @@
 Bootstrap 3 for Django
 ======================
 
-Write Django as usual, and let ``django-bootstrap3`` make template output into Bootstrap 3 code.
-
-
-.. image:: https://img.shields.io/travis/dyve/django-bootstrap3/master.svg
+.. image:: https://travis-ci.org/dyve/django-bootstrap3.svg
     :target: https://travis-ci.org/dyve/django-bootstrap3
 
-.. image:: https://img.shields.io/coveralls/dyve/django-bootstrap3/master.svg
-  :target: https://coveralls.io/r/dyve/django-bootstrap3?branch=master
+.. image:: https://readthedocs.org/projects/django-bootstrap3/badge/?version=latest
+    :target: https://django-bootstrap3.readthedocs.io/en/latest/
 
 .. image:: https://img.shields.io/pypi/v/django-bootstrap3.svg
-    :target: https://pypi.python.org/pypi/django-bootstrap3
+    :target: https://pypi.org/project/django-bootstrap3/
     :alt: Latest PyPI version
 
-.. image:: https://img.shields.io/pypi/dm/django-bootstrap3.svg
-    :target: https://pypi.python.org/pypi/django-bootstrap3
-    :alt: Number of PyPI downloads per month
+.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
+    :target: https://github.com/ambv/black
+
+.. image:: https://coveralls.io/repos/github/dyve/django-bootstrap3/badge.svg
+  :target: https://coveralls.io/r/dyve/django-bootstrap3
 
 
-Looking for Bootstrap 4?
-------------------------
+Bootstrap 3 integration for Django.
+
+Goal
+----
+
+The goal of this project is to seamlessly blend Django and Bootstrap 3.
+
+**Want to use Bootstrap 4 in Django?**
 
 See https://github.com/zostera/django-bootstrap4.
 
@@ -29,11 +34,10 @@ See https://github.com/zostera/django-bootstrap4.
 Requirements
 ------------
 
-- Python 2.7, 3.3, 3.4, or 3.5
-- Django >= 1.8
+- Django 1.11 or Django >= 2.0 with a matching Python version.
 - For details, see https://docs.djangoproject.com/en/dev/faq/install/#faq-python-version-support
-
-*The latest version supporting Python 2.6 and Django < 1.8 is the 6.x.x branch.*
+- *The latest version supporting Python 2.6 and Django < 1.8 is 6.x.x.*
+- *The latest version supporting Django < 1.11 is 9.x.x.*
 
 
 Installation
@@ -75,7 +79,7 @@ Example template
 Documentation
 -------------
 
-The full documentation is at http://django-bootstrap3.readthedocs.org/.
+The full documentation is at https://django-bootstrap3.readthedocs.org/.
 
 
 Bugs and suggestions

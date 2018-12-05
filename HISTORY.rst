@@ -3,12 +3,29 @@
 History
 -------
 
-In Progress
-+++++++++++
+11.0.0 (2018-08-30)
++++++++++++++++++++
 
+* Support `crossorigin` and `integrity` in urls (#443)
+* Switch to explicit Travis tests (#444)
+* Fix PyPI classifiers
+* Remove obsolete code for Django <=8 1.8 (#446)
+* Remove obsolete settings `set_required` and `set_disabled` (#445)
+* Remove setting `base_url` (#443)
+
+10.0.1 (2018-05-02)
++++++++++++++++++++
+
+* Fix PyPI classifiers
+
+10.0.0 (2018-05-01)
++++++++++++++++++++
+
+* Drop support for Django 1.8 (#434)
+* Fix bug in demo app (#430)
+* Remove unnecessary `len` call (#424)
 * Switched to master as main branch, deleted other branches
 * Switched to twine for publication on PyPI
-
 
 9.1.0 (2017-10-27)
 ++++++++++++++++++

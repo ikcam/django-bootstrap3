@@ -19,6 +19,7 @@ Contributors
 * Fabio Perfetti <perfabio87@gmail.com>
 * Irving Ckam <https://github.com/ickam>
 * Jay Pipes <jaypipes@gmail.com>
+* Jieter Waagmeester <jieter@jieter.nl>
 * Jonas Hagstedt <hagstedt@gmail.com>
 * Jordan Starcher <jstarcher@gmail.com>
 * Juan Carlos <juancarlospaco@gmail.com>
@@ -26,5 +27,5 @@ Contributors
 * Martin Koistinen <mkoistinen@gmail.com>
 * Nick S <nsmith448@gmail.com>
 * Owais Lone <loneowais@gmail.com>
-* pmav99 <pmav99@users.noreply.github.com>
+* pmav99 <https://github.com/pmav99>
 * Richard Hajdu <tuskone16@gmail.com>
